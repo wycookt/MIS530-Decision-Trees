@@ -1,1 +1,3 @@
 # MIS530-Decision-Trees
+
+After recreating the diagram using these three videos, submit screenshots and a one-page summary in a Word document describing what you learned about SAS Enterprise Miner from this exercise. The screenshots should be of the finalized diagram and the results screen of the Decision Tree model in SAS Enterprise Miner. Make sure your screen shot shows the whole diagram. The diagram should have the decision tree model as shown in the last video. DO NOT submit generic screenshots taken from the internet or other documents. It must be screenshots of your own computer screen. The date must be visible in the screen shots to confirm that the software is current and running on your system.
